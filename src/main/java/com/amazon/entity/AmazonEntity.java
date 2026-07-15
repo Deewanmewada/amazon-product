@@ -15,6 +15,7 @@ public class AmazonEntity {
 	private int id ;
 	
 	private String productName;
+	
 	private int qty;
 	private double price;
 	
